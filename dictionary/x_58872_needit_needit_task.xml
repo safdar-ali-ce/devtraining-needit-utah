@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<database>
-    <element extends="task" label="NeedIt Task" max_length="40" name="x_58872_needit_needit_task" type="collection"/>
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="6a6b7a2f97ae31102c2fba86f053af46" extends="task" label="NeedIt Task" max_length="40" name="x_58872_needit_needit_task" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="New Journal" max_length="4000" name="u_journal_2" type="journal"/>
+    </element>
 </database>
